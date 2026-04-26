@@ -1,0 +1,444 @@
+artist_mbid,artist_name,genres,error
+6a84105c-af0a-4367-8d54-e7dd6ceb19af,Vylet Pony,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+28503ab7-8bf2-4666-a7bd-2644bfc7cb1d,Dream Theater,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1fa3bded-908f-47be-9784-3c9ef850682b,Oliver Tree,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a0e8a1b1-5f8f-475a-a253-17415c17d0ff,Mac Miller,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0383dadf-2a4e-4d10-a46a-e9e041da8eb3,Queen,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b41b38d4-ef3e-4f37-8c75-cfe9af999696,Cage the Elephant,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e21857d5-3256-4547-afb3-4b6ded592596,Gorillaz,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+39ab1aed-75e0-4140-bd47-540276886b60,Oasis,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ff1cafa3-7ed4-4ed2-afbb-d1f263d607a8,Cuco,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+83d91898-7763-47d7-b03b-b92132375c47,Pink Floyd,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+24e1b53c-3085-4581-8472-0b0088d2508c,Avenged Sevenfold,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c07f0676-9143-4217-8a9f-4c26bd636f13,My Chemical Romance,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cc699fe3-db51-4837-928f-8f712c61a01a,grandson,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b95ce3ff-3d05-4e87-9e01-c97b66af13d4,Eminem,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+63aa26c3-d59b-4da4-84ac-716b54f1ef4d,Tame Impala,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a466c2a2-6517-42fb-a160-1087c3bafd9f,Slipknot,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8264722b-df00-467a-858e-5c97cda169c9,Joji,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+dd2ae026-4144-4ee3-a7b4-09434a465c34,Rav,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c262b6bf-be56-4b26-bceb-42d7a27342f3,Mike Shinoda,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+67f66c07-6e61-4026-ade5-7e782fad3a5d,Foo Fighters,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1888892a-06b7-4bbd-b0a1-3ffde01e4094,Peach Pit,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+669b08a0-2144-4800-a446-1522cfef228c,Palaye Royale,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7ff25558-3e85-4ffd-9da9-88c9e4af6a2d,Kill Bill: The Rapper,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4135b794-b15e-492f-bf0b-6fccfc1c0b8a,Ken Ashcorp,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2ae9b1a5-1c8d-4ad5-85a7-65b6ea03320b,Can’t Stop Won’t Stop,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b46e298d-d3a5-4695-a03e-63e8c523b23e,Daniel Caesar,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c3d6fdd5-67c5-453e-87e3-d17a00a52879,Stratovarius,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+381086ea-f511-4aba-bdf9-71c753dc5077,Kendrick Lamar,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b669c53e-5a1f-4adc-80be-755e64e8115e,Symphony X,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302,Deafheaven,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e520459c-dff4-491d-a6e4-c97be35e0044,Frank Ocean,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1d673024-a339-4b97-9f41-52cdc47498c6,MARK,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f181961b-20f7-459e-89de-920ef03c7ed0,The Strokes,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c9b8053b-e81d-486c-b117-dc15bd3bb604,samlrc,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ada7a83c-e3e1-40f1-93f9-3e73dbc9298a,Arctic Monkeys,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ab4cda60-2c0c-44db-a91c-72aa50c461aa,Splash Daddy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8d7739bb-ed4f-4015-91a5-11f93b1c94ab,Gezebelle Gaburgably,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3ee62edc-3521-4c39-89ce-081aafa79c00,Caramelos de Cianuro,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a6c6897a-7415-4f8d-b5a5-3a5e05f3be67,twenty one pilots,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+386b5a6a-86f0-4a29-83e4-447056fa6196,FEiN,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b202beb7-99bd-47e7-8b72-195c8d72ebdd,Christina Aguilera,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,Metallica,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0d79fe8e-ba27-4859-bb8c-2f255f346853,BTS,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d047ca22-c66d-4a86-a1b8-89d00c675d85,Tiny Little Houses,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+82eb8936-7bf6-4577-8320-a2639465206d,Jason Mraz,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+678d88b2-87b0-403b-b63d-5da7465aecc3,Led Zeppelin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a506f761-2c22-4b2f-8a94-bd748c2c8f75,Neutral Milk Hotel,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9c9f1380-2516-4fc9-a3e6-f9f61941d090,Muse,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+eeb1195b-f213-4ce1-b28c-8565211f8e43,Guns N’ Roses,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c648509e-9916-4c56-ab63-652a03da16dd,Anberlin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fb7272ba-f130-4f0a-934d-6eeea4c18c9a,Al Green,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+680a0350-cee3-49d4-a85d-7c9f4657fb97,Current Joys,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+27638856-79a1-4495-b7da-1912899560c7,bbno$,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+afb680f2-b6eb-4cd7-a70b-a63b25c763d5,Bruno Mars,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f6beac20-5dfe-4d1f-ae02-0b0a740aafd6,"Tyler, The Creator",,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0d8b0d50-e4cf-4da4-965d-f24c58ec3268,Boston,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a74b1b7f-71a5-4011-9441-d0b5e4122711,Radiohead,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a3e6b986-9ba2-4089-8157-bc92e9c471af,CatDany,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4d8afa16-4018-4ca8-8b5e-ede8f9314562,The Animals,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1c26c1d5-ec2d-427c-874c-c647c1f67276,The Stupendium,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d604a2f1-6397-458a-be95-ab47403a3e9f,Atlas,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a1421d73-1a21-484b-97ad-77c9a5676daf,Adam Levine,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fabb37f8-eb2a-4cc1-a72a-b56935bbb72d,Three Days Grace,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cc0b7089-c08d-4c10-b6b0-873582c17fd6,System of a Down,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9911c480-1b8f-4797-ae9c-a29f191a0853,Atwood,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+407d7ae0-c297-491c-bd19-4185e2b12ef2,Tally Hall,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+00d0f0fa-a48c-416d-b4ff-25a290ce82d8,half•alive,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3d2b98e5-556f-4451-a3ff-c50ea18d57cb,Aerosmith,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+084308bd-1654-436f-ba03-df6697104e19,Green Day,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a5b20ca2-55ee-4d1c-8236-7c38f5398997,Yeek,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4e249ccf-c4de-4237-aef1-922f90a2f786,Arrested Youth,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+142b343d-bf5a-428c-a64f-6d1a7566bbe9,Stray Kids,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+75a72702-a5ef-4513-bca5-c5b944903546,John Legend,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6ffb8ea9-2370-44d8-b678-e9237bbd347b,Kings of Leon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+daefe844-55f2-47d8-a1bf-344484dfdade,guardin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+bc5e2ad6-0a4a-4d90-b911-e9a7e6861727,Mastodon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+507d821a-dd31-426c-8bae-4006148f7ca1,Manwolves,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+55fb1ec1-26a2-4f43-8210-1e831235b55b,Sad Frosty,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e1295b60-1c1b-40a6-987e-d9c5b8733232,Scuare,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cf0dbc16-4e24-4957-b5b4-955c8978f690,ATEEZ,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0b30341b-b59d-4979-8130-b66c0e475321,Lil Nas X,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e62c627b-c9ec-452d-a8b0-101554b20ae3,ceo@business.net,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+569c3c80-418b-4189-aa9d-dfae91a751cb,Samsa,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+568a5f4b-f182-43be-9fe8-7758dd69be07,The Unlikely Candidates,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+95663592-1447-4579-90f7-c94733476667,ENHYPEN,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+78fcc713-214b-4f04-a84e-af800e2d34ba,Rare Americans,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c010eb84-2de1-40b2-b267-40de6002daab,ONEUS,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f2eef649-a6d5-4114-afba-e50ab26254d2,Sum 41,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+aa7a2827-f74b-473c-bd79-03d065835cf7,Franz Ferdinand,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+956b1fa3-e244-4e33-903f-4c834ead136e,Jamie Berry,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+38c71b9e-4bf4-4b92-aa59-514f2e726e8d,Elena Siegman,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8560d4e8-05e2-4c20-980b-ad2db445dd5d,Fitz and the Tantrums,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+153c9281-268f-4cf3-8938-f5a4593e5df4,Soundgarden,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7fb57fba-a6ef-44c2-abab-2fa3bdee607e,Childish Gambino,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8623a957-7d28-499e-9485-aa9374159887,Sugs,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9efff43b-3b29-4082-824e-bc82f646f93d,The Doors,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+522a1c3b-bcfe-4299-9c75-156fee42f3ef,Annella,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9d17d14a-e81c-410e-a90b-b02b0a9de6f8,NCT 127,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1f7ea922-f391-4089-bced-9b1e035e4642,ProleteR,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7999a8a1-6cbd-4453-8dd4-ebd03a10e44f,Cavetown,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6a62bf71-5079-4c63-bf80-dd1cb6ae03b0,Johnny Manchild and the Poor Bastards,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+520d25e0-e92a-4e59-be47-56a305bb4b0f,VHS,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+01a36baf-fa2d-4659-8bc2-dbfb5ffed791,Mick Gordon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+13d35c97-f8d0-4987-816f-b9b05861befd,doefriends,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0b7af1a3-9ad7-4955-a6a2-77c9095bdf50,Billy Marchiafava,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+faf4cefb-036c-4c88-b93a-5b03dd0a0e6b,Demi Lovato,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+16243662-8538-4746-a0fb-0d15b5828b8e,Neon Trees,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b8a7c51f-362c-4dcb-a259-bc6e0095f0a6,Ed Sheeran,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+27afdb7c-c932-4698-9d2a-96d7199acbed,Friday Pilots Club,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8b0f05ce-354e-4121-9e0b-8b4732ea844f,Juanes,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0c97b403-1aae-4315-93ab-af54fe2169d6,flipturn,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ab1a3f85-e0ea-470a-af5c-175447ae774c,underscores,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8c058282-ba69-4fab-9aad-2c609da200eb,Trudy and the Romance,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4e4058e3-352d-4e32-906e-dc0990da7e09,The Irish Brigade,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d7134426-a937-43bf-bc54-f10ad8102ed9,The Pharcyde,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+883cbf1f-dcaa-4d17-b9ed-394e1fdabc87,Rex Orange County,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+82178603-e97b-4d60-b521-82582545a0a8,Battle Tapes,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+164f0d73-1234-4e2c-8743-d77bf2191051,Ye,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d,Pierce the Veil,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+58ec903d-f1f4-42cb-9d94-174fbdf32f74,Cemetery Drive,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+80b3cf5e-18fe-4c59-98c7-e5bb87210710,The Roots,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b071f9fa-14b0-4217-8e97-eb41da73f598,The Rolling Stones,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+64b85e52-08db-4995-a6e3-d2a6acc5a058,Jesse & Joy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4abc0b5-3f7a-4eff-8f78-ac078dbce533,Billie Eilish,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+95e1ead9-4d31-4808-a7ac-32c3614c116b,The Killers,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5182c1d9-c7d2-4dad-afa0-ccfeada921a8,Black Sabbath,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+074e3847-f67f-49f9-81f1-8c8cea147e8e,Bring Me the Horizon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b3977da4-f899-4328-921b-ecc599a5618a,j‐hope,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6a64307a-1806-428c-9bee-4afb13b27042,TREASURE,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+21228f86-5768-4563-83fa-25375c29f21f,DisMissedFit,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+754e2a05-7f44-4898-bcfd-64a837a6b05f,Creo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d8354b38-e942-4c89-ba93-29323432abc3,Thirty Seconds to Mars,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5e0aa100-7075-4c9a-8518-c4f69a4008e6,Bedside Kites,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9,RM,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+86f78011-5087-48d2-8922-c381d2eb0c40,Sick Puppies,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+37596bba-85c3-4b36-a612-4c0d77f0fc68,Backhouse Mike,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ef8d7a94-64a3-4362-b81f-b5999fb246de,Derek Duke,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+87ae83df-6173-40cc-a0f2-bad543faa6aa,DaBaby,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8b0d5f41-41d4-4bd2-9ad0-9d343af32073,The Mellowells,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e2c00c56-8365-4160-9f40-a64682917633,Goo Goo Dolls,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ad322b8b-31b2-437d-8fd8-1af13c1d7b91,GIVĒON,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2465d7da-7da3-42ea-8440-e701775d856b,Glenn Stafford,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7d577034-18d3-4066-85c7-157d3bcce6b5,Kxllswxtch,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6b025cf6-8f78-4efe-904c-8c08db13bea0,DREAMERS,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+30baa5b8-d299-4a0c-918e-9b713785a0e3,Kuana Torres Kahele,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0c502791-4ee9-4c5f-9696-0602b721ff3b,Electric Light Orchestra,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+38d363c7-fdcb-4308-9474-a0d14ab8d9b7,Christina Perri,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2bcf2e02-5bc3-4c76-bf76-41126cb11444,Ghost,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4236d929-9a81-4c8e-97c3-8d3306780f50,Scissor Sisters,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+40627299-0979-45ba-8924-2af5fdc36ea8,Ricardo Arjona,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+23c8056b-ee13-4cfc-a772-2f5292e35bb5,Jung Kook,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3c84e93f-94e2-41b7-803d-ecccc61dd2de,Russell Brower,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+809c7778-73d5-4018-935c-335e621adbf7,killedmyself,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ac865b2e-bba8-4f5a-8756-dd40d5e39f46,Korn,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ae0e2978-b150-4177-b6d4-513e6a657ce8,The Real Zebos,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+abd506e1-6f2b-4d6f-b937-92c267f6f88b,Journey,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4e4ebde4-0c56-4dec-844b-6c73adcdd92d,Juice WRLD,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8aa5b65a-5b3c-4029-92bf-47a544356934,Ozzy Osbourne,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+33319aed-9bd7-4cd1-903c-716845c1b7cd,Black Veil Brides,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fad8967c-a327-4af5-a64a-d4de66ece652,Celldweller,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0bc858a1-3573-4216-9423-c96dd8c72919,Twista,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6f6fd596-76e0-4b82-aa37-f558ac2d337b,Gotye,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b6f8cce8-cbac-48a0-b0fa-d6cc06447928,Make Them Suffer,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2cc8fd8a-4c22-4905-8a8f-86f076d50497,midwxst,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e04d239e-9fa8-49b3-b9b7-9e439c3cb1d1,SEVENTEEN,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ef954679-5ee7-4016-acef-7ac71f2fa3d8,Atmosphere,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+66c662b6-6e2f-4930-8610-912e24c63ed1,AC/DC,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a40ea317-e531-428a-909b-da1e68700573,Freddie Dredd,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8da127cc-c432-418f-b356-ef36210d82ac,TWICE,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9689aa5a-4471-4fb4-9721-07cecda0fa9f,A Tribe Called Quest,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,The Beatles,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0e431661-0291-4fc2-90f2-a47e057e0a6a,Jarv,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+da9bf052-1a66-4737-be10-9f3987980b19,PENTAGON,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+713e751f-3ddb-4b77-b3b1-9e6f2e953ad5,Logic,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+48646387-1664-4c9a-9139-9bfd091b823c,BLACKPINK,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ebee61b4-bbdd-4087-9bcb-d5aa099088ec,James Blunt,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b031dffc-267f-45e2-aad7-7a721086bff6,Chrosky,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e0e1a584-dd0a-4bd1-88d1-c4c62895039d,Foster the People,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+37177491-dc86-4536-8ac2-51887ccfa0bb,The Rare Occasions,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+93998e01-ff53-4af7-ba2a-5674adcdf21e,H.E.R.,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6bb69646-d76b-48a5-a77f-4f60cf4db5af,Panoramia,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c3009d7a-51ac-4c9c-888a-04f5c3c4be0c,Eazy‐E,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493,Adele,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+dc7c8277-d4b6-4bca-bdfe-50eee42536ac,NCT DREAM,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+86a6268f-a7da-4322-a273-1edce2ea5a12,Feng Suave,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4b0dd5e7-c795-42bd-8311-bc9f71fabd0a,Counterparts,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6647af6b-8ea2-48bd-9d24-a8c478ed45ce,Neal Acree,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3a4024dc-cc62-4d9b-8bed-c22426136a52,Quadeca,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+323ea2bd-a27e-414a-ba40-2727bf3a37e1,Renée Elise Goldsberry,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9757ae7d-44b1-4d63-81ce-b463fe27b9ae,Joey Bada$$,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8e66ea2b-b57b-47d9-8df0-df4630aeb8e5,Peter Gabriel,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b27d089c-6b08-4067-9293-406cebde0374,Matt Maltese,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3e55d51d-687f-4a9d-af96-2fabccf802e5,The Cardigans,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b285738d-c672-4157-bc11-03fed10f984b,Jackson Breit,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+02bbc8d7-da26-4ed3-aa6d-b26b041ff6b0,Ardeon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0ddddde3-9fe5-4bb8-af27-d0b686bf33b0,American Pets,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9d027d72-790e-40ec-bbb7-61aa613457de,TOMORROW X TOGETHER,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+480e9088-5edc-40fc-850d-975e06109e3f,Méav,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+186e216a-2f8a-41a1-935f-8e30c018a8fe,Passenger,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f59c5520-5f46-4d2c-b2c4-822eabf53419,Linkin Park,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a82a29d3-afbc-40fc-9584-b679d8042f44,Natura Ferox,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c8b03190-306c-4120-bb0b-6f2ebfc06ea9,The Weeknd,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ab966c0f-e526-46ae-b492-82c27b87f81f,Mon Laferte,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+977e9297-a7e4-449c-94f0-2c500245d07e,Block B,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+64772898-ff1d-47a9-80e8-ba6069b2cda0,bl4ck m4rket c4rt,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e43d0728-df9e-4c26-ac3b-a98a91e2f314,Okey Dokey,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+26f07661-e115-471d-a930-206f5c89d17c,Mötley Crüe,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+814d4a3a-e336-4043-adc4-c78e99d8ac00,Teenage Disaster,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7bb60591-46f3-4147-b692-1814a87e832e,Barry Manilow,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c0ddc7ce-c397-46e1-b760-9fdaca0f7a47,exociety,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+91ae77d8-3bb5-4e59-98a7-532ac0f2825d,I DONT KNOW HOW BUT THEY FOUND ME,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5be7d200-5499-4bba-b29b-1ac554199d23,Calle 13,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9f4c3bca-4d80-428f-9ed2-0de052d92ecc,Jack Stauber,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c5b2a3ca-4a5e-4ce2-a45a-ef69d909a498,Black Dresses,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+69681b02-05b8-4685-80cb-e98983b7a96f,Mother Mother,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a0a7501e-e0b2-4d7d-a813-ee2668bcb2eb,potsu,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f27ec8db-af05-4f36-916e-3d57f91ecf5e,Michael Jackson,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9fc92dfd-8367-4a7e-88f5-18b24baa1b70,JIHYO,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+81250ee6-a008-4007-8cfd-dddc22176cac,Ren,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5dcdb5eb-cb72-4e6e-9e63-b7bace604965,Bon Jovi,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+72431fc4-1f37-4f61-a4b0-03ccaf3f7418,Younger Hunger,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e98fc8a6-f523-462a-b221-b55d935f19d8,Phillipa Soo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+650e7db6-b795-4eb5-a702-5ea2fc46c848,Lady Gaga,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ff44f779-74ab-48f8-aac3-39ebe8f7c18e,Digable Planets,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ef326b3d-61f0-4379-aca0-21237d696d63,$uicideboy$,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+83b9cbe7-9857-49e2-ab8e-b57b01038103,Pearl Jam,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+889db25c-d1df-457a-b0d1-c405f34a01f3,Bo Burnham,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+79dc561a-5e4f-459d-804a-13b7fc0e303b,Matt Uelmen,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+80609a00-b394-4a49-975b-2db6b543fa97,The Kid LAROI,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+16c30e33-0f97-4146-9bec-dc21d074eaec,Pink Guy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+73fdb566-a9b1-494c-9f32-51768ec9fd27,OutKast,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5a35701f-9209-4742-ad44-7432d3230127,SuperM,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+72eabb1a-4d2c-4de6-90f2-671b2cada42b,Caravan Palace,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ffb45b37-1bab-4fe1-9e31-5509acb3fd94,Loren Allred,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9b15ff5e-5bd1-43c2-821d-e31240aad334,supercell,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+50cca42e-6573-4f49-b039-b56430220c6d,Deadlights,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cd5aa535-0e40-4aef-9747-a3c22f3c0289,Ciara Renée,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+bdacc37b-8633-4bf8-9dd5-4662ee651aec,Slayer,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a8f890d7-2763-438e-8548-747c47e8e136,WHOKILLEDXIX,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7c7f9c94-dee8-4903-892b-6cf44652e2de,Tears for Fears,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,Evanescence,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d2582c77-6b0f-4b2f-802f-8f3cad1a5fec,Jimin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7b46472b-adda-4a9e-a6e7-824dedff9200,The Backseat Lovers,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7364dea6-ca9a-48e3-be01-b44ad0d19897,a‐ha,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ea4dfa26-f633-4da6-a52a-f49ea4897b58,R.E.M.,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+db3de4ac-af35-49b1-92c1-10a932c7ef59,JAWNY,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ba6b0048-8d97-4d91-bcb1-0db7c83647d5,Mentatranque,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b06ca342-eff9-46a0-ae15-bf610b820f7d,Jakey,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+da357978-095d-4621-a7ee-2c0f336c5e8a,Her’s,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5e6c760b-42e0-4df4-a221-0269355da00a,Dean Martin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+944ae7f1-0d31-4c32-943d-b17988c5de94,The Noisy Outdoors,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+892500b7-09a6-4049-ba92-2d192dd70563,Biffy Clyro,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5b11f4ce-a62d-471e-81fc-a69a8278c7da,Nirvana,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d95a463f-e7d3-4c97-98ba-57f75cb4fda2,Xdinary Heroes,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ba64f4f1-574a-4039-bee2-9f63e4026c8a,Boy Called Cute,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+36f83895-5a69-47c1-a4a2-e2449acbf64a,"Leslie Odom, Jr.",,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+af0c4afb-8717-4dad-b453-6b015c0d8bdc,saoirse dream,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1a425bbd-cca4-4b2c-aeb7-71cb176c828a,One Direction,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c98d40fd-f6cf-4b26-883e-eaa515ee2851,The Cranberries,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+328d146c-79f1-4eb6-9e40-8ee5710c14e5,Imogen Heap,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+70a3344d-3f48-4843-ac93-e9e031d86b01,Canserbero,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6f58e106-5324-4bf3-a373-a38881dd6cb2,All Night Chill Makers,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3798b104-01cb-484c-a3b0-56adc6399b80,Rage Against the Machine,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7c889907-5c9f-4441-bdeb-4cf78b1e9e32,Deepnoum,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+092c6a8b-f89f-4f24-832e-eb98ae358548,Ambi Val,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+73ae4a8d-861e-4cfc-97a4-c61f2f48708c,Joe P,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4b879e3d-7d1a-4bc2-a08e-3f92df54dc97,student 1,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c42e60f4-4520-4954-b6e4-82bbdf532c11,JPEGMAFIA,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+188711ed-c99b-439c-844a-ca831f63a727,MF DOOM,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+dde3d9b1-0e44-48bc-b0c9-d739b3570000,Tech N9ne,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f62d7df2-aace-460e-a9bc-d1d01c06e6ca,Da Vinci’s Notebook,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+feb0a14b-63c9-43f9-958b-148488c79f23,Lasso,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6fe07aa5-fec0-4eca-a456-f29bff451b04,Weezer,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0de620fe-8d4d-4be0-b6ae-2669ef948b2e,Jasmine Cephas‐Jones,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+96afb04e-f03c-44c1-9a00-9eb31dd031da,Jake Lefkowitz,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+24a60384-83b0-4cfb-abba-d97075e83e52,Get Scared,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7de398f0-b4cf-476d-ac60-41d47d3511ca,Rawayana,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5caa5f3c-9131-41e0-94ba-234fc3e27368,StyccO,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7ea00d04-8663-4d28-a6d5-50e43934596b,Hannah Bahng,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e02ea2a6-b58e-4b6c-8538-5b1cf3bf2fe8,SWMRS,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fa58cf24-0e44-421d-8519-8bf461dcfaa5,Mitski,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+656d0024-7b5f-4089-9d3e-ce383f15f1b7,BOYNEXTDOOR,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b80ce407-9501-49be-afe3-09268f88ff43,Minimatic,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9d2fde91-4633-430d-87f0-2b9bbb7fa451,Asking Alexandria,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f0433178-6b43-4a2c-86e1-bbfeb296cdf1,Poor Man's Poison,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+144ef525-85e9-40c3-8335-02c32d0861f3,John Mayer,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+af2320d6-948e-499a-8bcf-83c93e0a80fb,DAY6 (Even of Day),,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+925c7673-0e85-410f-b7e4-d9705a7aa619,Lin‐Manuel Miranda,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5c2593bc-1621-4c4d-821b-b7bb6ff213b5,Saint Motel,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+50a45c3d-b54b-4fd5-bb83-5046e4ff6813,David Arkenstone,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+dcda3f67-9097-41da-b7a7-612ade6385c0,Sam Cardon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4987db0b-63fc-4ff2-b8f9-3cbcdc17b2a9,Somnolence,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+4b90c344-31bd-48d1-aa58-8e061a8251c9,Hugh Laurie,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b6b2bb8d-54a9-491f-9607-7b546023b433,Pixies,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+32b742e1-2a14-49e1-9c00-fa2c28189e97,Lowertown,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5,Avicii,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b38a00f2-3746-4e9e-93de-8257ca5b1680,Residente,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+beff21d3-88c7-4ee0-8b7a-40b6db22c6d7,Pendulum,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7f378f19-4686-41aa-b83e-3df359ae1578,Hugh Jackman,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+df6c619f-4334-43e2-8b6a-4a32af1e4f85,YOASOBI,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9341a67c-4f0c-43c2-9ec4-c222d2cb97f3,Skee‐Lo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2123417c-f562-4461-9873-8910ffece5d6,Joy Again,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5e5480be-eded-44ad-9c45-f6136ec2f5db,Reel Big Fish,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+70e5098b-c4ae-4cd7-9799-3c1b9b57c753,SHINee,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3c011436-48f6-4f9a-8930-8430afdfd328,Swingrowers,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fab34286-b8e1-4879-bce3-194e1358fbd2,Kesha,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+10299fc6-ace5-4c3c-bec9-0e12dd141d9e,Ameer Vann,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3f194516-6f0d-4d26-b631-71117f3bc41d,The Wrecks,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+755b2396-01e7-4db0-bac5-3be58965aa20,Deep Horizon Waves,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+61af87f4-16ee-4431-8504-cc06187079fb,XXXTENTACION,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f41490ce-fe39-435d-86c0-ab5ce098b423,Simple Minds,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+49204a7a-ed85-407a-828f-6fd46f1d8126,NewJeans,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+921ab387-f3b5-4392-8583-adfff42aff23,Ben Beal,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+49d67664-6962-4f69-adc4-f52208c78dd2,Rich Brian,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+97e69730-3791-423b-9770-287261588854,Alessia Cara,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e,Nothing But Thieves,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b2f2216a-d7a9-4ce0-8b8f-f494d9a8c196,IVE,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1ef116e4-1f6e-47b8-839d-30f7fdf9df9b,Jay Joseph,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f2492c31-54a8-4347-a1fc-f81f72873bbf,Mac DeMarco,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+18de31c0-5c6e-4fa5-89e7-456012fbf7e9,ROAR,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+61cdb045-7f89-4eb1-b3ed-35db94d9ab99,The Walters,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+741666ad-cee4-43ce-bca8-70e9a42139b5,Molecualar Binary,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e148e786-f078-49e2-a9fb-fd044bd68905,MISAMO,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f76307c7-b9da-45ce-99e7-49181dd43e47,redveil,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6958e806-1e14-4844-a0a7-07a27756aa0f,A Great Big World,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+88be1fb5-0112-4549-9608-526591c7f415,David Garrett,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+64e632fa-7f23-4b05-b178-572086f80b73,False Noise,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1c494195-f8b9-456f-8516-42695bfae57b,Jaymes Young,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fe038151-1099-4de8-901b-39be66d6e493,ZEROBASEONE,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fa08b579-5692-42c8-967c-d4dfc6d823bf,nohidea.,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+8a806a55-fa0d-4060-82e5-ecfbd24a5bc3,Coti,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9f93c34a-2dc2-400e-ada5-937c3efc3437,Liana Flores,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e1fb9572-3a3b-44c3-863e-dcdef7300394,Fall Asleep Machine,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b25c6c3f-3861-4687-be1d-3c8d238cfb34,Zac Efron,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+da5cd367-04ab-4ae8-9346-84ba9047417d,Eva Noblezada,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6f6e8712-d494-481e-8882-c1ea08d65978,PATTERN,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+929ca8c3-5df3-4fe9-bc59-f8d603780bce,Idina Menzel,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e79dc7f7-7a9c-4058-b9cc-372fb8b3da1c,Clint Bajakian,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+77191d5f-1045-4b3b-ad7f-12ea398db929,DAY6,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e9113fb7-350c-4975-9b16-af633f23cf66,Vundabar,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fbcd7b29-455f-49e6-9c4f-8249d20a055e,Seether,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7575e0f0-9c13-4602-a01a-e2ae463414e1,Tha Ynoe,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+433adf92-9760-4d46-9d45-2a098abd4721,Infinity Ink,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9e614665-3bc0-4f82-a162-292b8bbc1d66,Curtis Waters,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ac34b3a0-b963-441b-9a12-6594d953a8f6,Weathers,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+25ab7547-a4d2-480b-b028-c7f3497bc858,Men I Trust,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3237b5a8-ae44-400c-aa6d-cea51f0b9074,Grant Kirkhope,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7ac7f935-6476-4815-b821-5fb407dfca67,OR3O,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4d5cc07-3bc9-4836-9b15-88a08359bc63,P!nk,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+174bd34d-9e1a-4372-b24d-ca9b5407bf22,DAGames,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+99e0983f-6183-463e-a61e-2041ca8931ba,Lil Darkie,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ad4653bc-ad04-4a41-a6cc-477ebe5cd96c,Keala Settle,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+64c9974f-20a9-491d-bd94-2168cd738e2a,Breakbot,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+eeac3367-f929-4989-8661-b84433f63266,Klischée,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+20b034b2-35a1-40be-908f-22d1b5681572,Yung Gravy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b73433e9-24bd-4446-bf0c-40826bd48b44,Kany García,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+bc2b3a1c-fe0a-4a10-817e-7a826434cfd3,New Dialogue,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+085bbb68-d9c5-4183-8a2a-f9f7dd53d9f3,Absofacto,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7bc012a7-c5cc-4e7a-9ca6-15db02bbcde4,Lemaitre,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+287cb25a-9b05-474c-9ad1-38046a46c37f,Strawberry Guy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+40baf67d-1490-47e2-95e4-c83273df7c9f,Matthew West,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ad3a7678-18a2-4752-8592-b2d62a01755e,Dusty,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+78e46ae5-9bfd-433b-be3f-19e993d67ecc,Rufus Wainwright,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+260b6184-8828-48eb-945c-bc4cb6fc34ca,Charli xcx,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7fd43bc8-b5ff-45ed-8ce5-1b0c17114a9e,Jason Hayes,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+afb2b805-72f3-4d70-8f6e-143db2750137,Pretty Vicious,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+a9044915-8be3-4c7e-b11f-9e2d2ea0a91e,Megadeth,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+752bebd2-b44c-41bb-8a21-bdf3cd1b5518,Cynthia Erivo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+94b0fb9d-a066-4823-b2ec-af1d324bcfcf,The Velvet Underground,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e89fd475-545f-4746-b04b-b2fa7e87ad14,Relaxed Minds,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fe1a873d-2000-4789-a895-4187fe756203,Parov Stelar,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+960afc67-9c21-46dd-9c7f-ff2b509e3150,Danny Brown,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+012151a8-0f9a-44c9-997f-ebd68b5389f9,Imagine Dragons,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d8e99eeb-94c6-4de4-b23c-39e90faa73a3,CORPSE,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2eb55bd9-cfbf-44fd-a5da-92dd825284c7,AJR,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cf9655a8-ce1e-414e-9843-de1c4a60830d,Hippo Campus,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f09d2950-e3c6-47b2-b21c-2bad2cd3f616,Agust D,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e9403d9c-329b-4108-a26f-564159d441d9,"Black Country, New Road",,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d5cc67b8-1cc4-453b-96e8-44487acdebea,Beach House,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f721a848-c8a0-4043-85e5-a17fe4860835,Edo Guidotti,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+63163ccb-4f3d-4581-9154-34d9a8697395,Kyle Pederson,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+512171a4-d41a-4df6-838d-de0a47aea068,boy pablo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+6a989401-5d78-4cd1-8f34-ad3c634ac7e6,The Gentle Men,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e86fc1f5-d632-44b2-8aea-38f83aadffe8,Lorna Shore,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+da183054-32a1-421c-9df3-ee31f158ee33,JUN. K,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2,Ice Cube,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+81f3395a-3783-4737-a06e-ea4420fe2443,Control,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1ee37742-1e3d-4e61-84d2-bc85f4c1459a,LE SSERAFIM,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+109958eb-a335-4c5e-907e-597ff4c6af46,Creedence Clearwater Revival,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+61f313b1-e51d-4bb2-bcae-b2d18e6ecdd6,Vairo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0eb17834-1d29-47ef-a422-9dc68d73c5e4,Kanye West Tribute Band,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1a48176d-1414-4a18-9792-50ba585d4d59,Three Dog Night,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+847e8a0c-cc20-4213-9e16-975515c2a926,Céline Dion,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+94514e40-ada1-41c7-b333-b08ddbc274bb,André De Shields,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+fb407c75-3474-4a01-9d96-2d71e8e48a7d,Swing Republic,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+cf042013-3edd-46c4-9b0e-a62faac98d0b,Funkadelic,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+bfd5aec5-62a2-4560-a316-7c46c17babda,Train,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+20c8e21c-a8b9-4ac1-bef8-0ddcd9f4691a,Triathalon,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+36393a79-7cf3-4bdd-a917-f8db17e11f14,Brick + Mortar,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+02f44a81-34f0-4f52-9ab7-c3cfcdb60333,gnash,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+396096fc-f7d5-40fb-87fb-ef0773acb1bb,Dimrain47,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e10b4ba3-5a4b-4da8-afe3-86542bd46096,Lyre Le Temps,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+16d6d00d-31af-480d-8700-a68a74eea1ac,xi,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+038bd27c-ebec-44e5-9880-1f5eb933db11,NewDad,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+aa440de8-500e-43a1-b601-a9733fd1bcb5,Michelle Williams,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+aa11c4f2-4205-4f48-b9b5-ce49e14d0d89,Reeve Carney,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+299278d3-25dd-4f30-bae4-5b571c28034d,The Postal Service,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d459e60b-240b-42d3-ad07-a5a1facfa6b4,Ziv Zaifman,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+aec158a7-f486-4d0a-b2cc-6ae6bce99439,Patrick Page,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d8c9eef5-1f61-4811-8c35-31fb9a69a3be,Matt Watson,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+ef58d4c9-0d40-42ba-bfab-9186c1483edd,DragonForce,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+622b6000-ff0d-4ab3-9e98-c4916f3692c3,The Front Bottoms,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2d623e82-73e2-4179-9c44-e963980f2d58,NMIXX,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,Ariana Grande,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+79db1a62-d707-46ac-8132-4965035fc63a,Ethan Bortnick,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+5b366d5c-03c2-47d8-8dec-828048fde637,Slush Puppy,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+73e5e69d-3554-40d8-8516-00cb38737a1c,Rihanna,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2d70c0b2-6437-4c54-bd47-a736ad9fa077,XANAKIN SKYWOK,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f22942a1-6f70-4f48-866e-238cb2308fbd,Aphex Twin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c9d64b86-c194-4b05-be41-0245c4a7477b,kyeaintdead,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+e6de1f3b-6484-491c-88dd-6d619f142abc,Hans Zimmer,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+c502a882-ea55-4bdf-b6e0-a95330e14682,Aqua Timez,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3ce8d3a9-4d23-47bf-af44-cf976c2a2aa5,8 Graves,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+38b511a2-76fa-4a1e-9b7a-e2a6efa6399b,Jarabe de Palo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+dc84c3f5-a44c-4a46-bf41-fd1640e3c99d,Djo,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+11d94660-1963-4020-8762-4c5907e2ea48,Psychedelic Porn Crumpets,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+09720eec-3871-49d5-932d-eb7542768cd3,Jin,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+2f548675-008d-4332-876c-108b0c7ab9c5,Sia,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+3f9b5837-ed1c-413e-bfef-ca4f892dcc59,Marconi Union,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+736648a9-846c-4530-aec6-b50479c3252c,Call Me Karizma,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f413369d-d72f-46b9-8744-2d09344a9c6a,Jeremy Soule,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+bed6a630-b760-4b0b-9a1c-bf9ced0d28fa,Chuy Flores,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f4b6e451-5dce-4842-a555-f793892299b3,Jane Remover,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+0e2c603f-fd71-4ab6-af96-92c3e936586d,Louie Zong,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+47bdba22-8562-41f2-b307-b9c79db3b6dc,Jonathan Bailey,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+b7f2cca2-72c6-41fb-ae33-53370fc62fe7,Stevie Nicks,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+1139ec25-ea32-4eb4-880c-73bb5a5ab04e,Amber Gray,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+37c61bf2-5fb1-47ae-9605-80025d956958,Nico,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+7a1eb805-2242-4daa-bd90-c1ed350e2e48,Insane Clown Posse,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+22c34351-7946-47a4-a75c-f80d7e1951c2,Granular,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+9563966d-ca18-44f7-9d72-87a1fe27ae9d,Rocket,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+f7c547ed-29c8-42cf-9084-e902b5f720f7,Grand Commander,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
+d0ef51d1-15a4-40ce-862d-58914e2646b4,Noel,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl
